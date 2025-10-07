@@ -17,4 +17,4 @@ A beginner-friendly JavaScript calculator project that performs basic arithmetic
 ## :chart_with_upwards_trend: Future Improvements
 - :computer: Add buttons and input fields in HTML
 - :bricks: Style calculator with CSS
-- :calculator: Show results on screen instead of in the console
+- 📃 Show results on screen instead of in the console
